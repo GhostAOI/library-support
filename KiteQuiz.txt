@@ -1,0 +1,6 @@
+How is attribution used for payments on Kite? | It links usage to contributors for compensation
+What is a benefit of using DID-based identity in Kite? | Interoperability across platforms
+What does DID stand for in Kite's identity system? | Decentralized Identifier
+Why would a developer choose Kite over a general-purpose blockchain? | It is optimized for secure, verifiable AI agent transactions and interoperability
+What is the function of the AI Detector App? | Detect deepfakes in images
+What is the relationship between an Agent ID and a KitePass? | KitePass is the overarching identity; Agent ID is the unique identifier for a specific agent
