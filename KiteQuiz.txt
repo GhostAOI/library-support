@@ -7,3 +7,4 @@ What is the relationship between an Agent ID and a KitePass? | KitePass is the o
 What is one outcome of using PoAI for attribution? | Services can be monetized based on verified contributions
 How are payments handled between agents on Kite? | Real-time, usage-based value transfers
 Which of these is NOT part of Kite's core infrastructure? | Image rendering engine
+How does Kite help prevent service impersonation? | Through service IDs and verifiable credentials
