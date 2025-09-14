@@ -33,3 +33,44 @@ How does PoAI enhance economic accountability? | By linking every contribution t
 What is stored in the service schema? | Technical capabilities and API endpoints of the service
 What enables agents to act independently on Kite? | Identity, attribution, and payment infrastructure
 How does Kite ensure agents stay within predefined scopes of authority? | Usage constraints in governance layer
+Which of the following is an example use case of Kite's payment channels? | High-frequency API calls billed per request
+How does Kite's custom blockchain differ from general-purpose chains? | It's optimized for agent-to-agent and agent-to-service interactions
+What is the relationship between Kite's payment and identity layers? | Identity ensures accountability in financial transactions
+How does Kite's EVM compatibility benefit developers? | Allows deployment of Ethereum smart contracts without modification
+What is an example of a real-time payment channel use case? | Paying per millisecond of API compute
+Which system verifies that a specific model or agent contributed to an output? | Proof of Attributed Intelligence (PoAI)
+What type of economy is Kite designed for? | AI-native machine-to-machine economy
+What does the attribution layer in Kite connect? | Agent actions to economic outcomes
+How does Kite enable cross-service interoperability? | Through a shared identity, attribution, and payment framework
+Which protocol enforces logic around how an agent can be used? | Usage Policy Contract
+How does Kite promote economic accountability in AI workflows? | Attribution-driven incentives
+Which layer in Kite determines how agents may interact economically? | Governance layer
+How does Kite ensure provenance for data contributions? | On-chain attribution with PoAI
+What ensures agents can find and use services independently? | MCP and service registry
+How does Kite facilitate real-time microtransactions? | Lightweight payment channels
+What is one of the first steps to onboard a service in Kite? | Register the service with metadata on the MCP server
+What role do validators play in Kite? | Maintain network consensus and execute smart contracts
+What does the Kite infrastructure help enable for AI agents? | Autonomous coordination and commerce
+What is the role of programmable governance in Kite? | Enforce agent usage boundaries and constraints
+Which element of Kite's architecture handles payment dispute resolution? | Governance contracts
+How do agents discover services on Kite? | Searchable on-chain service registry
+Why are programmable guardrails important in Kite? | They ensure agents operate within predefined safe parameters
+What happens when an agent's policy contract is updated? | Future actions are constrained by the new rules
+What does the identity layer prevent in Kite? | Fraudulent or spoofed agent interactions
+What does Kite aim to replace in legacy internet infrastructure? | High-friction payments, weak identity systems, and siloed governance
+What does an Agent ID function as in Kite? | Unique identifier for a specific AI agent
+How are usage limits for an agent enforced in Kite? | Through programmable policy contracts
+How does Kite's modular contract framework help developers? | It lets them compose and swap components without redeploying the entire system
+What's the role of metadata in a service registration? | To describe capabilities, inputs, and outputs for agent discovery
+What is the advantage of Kite's service verification process? | Ensures agents can trust the source and capabilities of services
+What problem does Kite primarily solve for agents? | Absence of interoperable infrastructure for trust, payment, and identity
+How does Kite make multi-service workflows possible? | By letting agents discover and coordinate with multiple services via registry and policy layers
+How are transactions between agents recorded in Kite? | On-chain immutable ledger
+Why is DID important for Kite agents? | It provides a portable, verifiable identity across systems
+What kind of identities are used for agents in Kite? | DID-based identities
+What is the MCP server used for in Kite? | Coordinating service registration and discovery
+What layer is responsible for recording agent usage patterns? | Attribution graph
+How does Kite handle disputes over attribution? | Governance-based resolution
+Which component of Kite ensures contributions can be audited? | Attribution logs
+Why is attribution critical for AI agents? | To ensure services and contributors receive credit and compensation
+How does Kite enable agents to evaluate the trustworthiness of a service? | Verifiable service metadata + identity
