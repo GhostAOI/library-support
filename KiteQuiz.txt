@@ -8,3 +8,28 @@ What is one outcome of using PoAI for attribution? | Services can be monetized b
 How are payments handled between agents on Kite? | Real-time, usage-based value transfers
 Which of these is NOT part of Kite's core infrastructure? | Image rendering engine
 How does Kite help prevent service impersonation? | Through service IDs and verifiable credentials
+Why does Kite integrate payment channels instead of using only on-chain payments? | To enable low-latency, high-frequency transactions between agents
+What mechanism does Kite use to attribute and verify contributions in autonomous workflows? | Proof of Attributed Intelligence (PoAI)
+How is agent governance executed on-chain? | Programmable policy contracts
+Who benefits from verifiable attribution in Kite? | Data providers, model builders, and agents
+What happens when an agent violates a governance policy? | Their actions are restricted or blocked according to policy rules
+What is the primary advantage of running services on a blockchain like Kite? | Built-in verifiability, attribution, and payment settlement
+Why is EVM compatibility important for Kite? | It allows existing Ethereum tooling and smart contracts to run without major changes
+What type of blockchain is Kite? | EVM-compatible Layer 1 tailored for AI
+Why does Kite require services to have a verifiable ID? | To prove authenticity and build trust for agents using them
+What is one example of a real-world integration Kite aims to support? | Shopify-powered stores as agent services
+How can Shopify stores integrate with Kite? | By listing their goods as agent-accessible services on the MCP server
+What is one benefit of service ID registration on Kite? | Discoverability and verifiability by agents
+Which aspect of Kite helps keep AI agents within safe bounds? | Programmable guardrails via governance
+How can attribution data be used beyond payments? | To generate governance metrics
+In Kite, who can register a new service on the MCP server? | Any developer with a KitePass and API credentials
+What is one example of a service that can register on Kite? | Shopify storefront
+What is the main purpose of KitePass in the identity system? | Represent a verifiable identity for agents
+Who can issue KitePass credentials? | Any registered developer
+What is the primary purpose of the service registry in Kite? | Provide a searchable directory of agent-usable services
+Which payment method can be integrated for real-time agent settlements? | PayPal's PYUSD
+What happens if an agent exceeds its authority in Kite? | Execution is halted via governance constraints
+How does PoAI enhance economic accountability? | By linking every contribution to a verifiable identity
+What is stored in the service schema? | Technical capabilities and API endpoints of the service
+What enables agents to act independently on Kite? | Identity, attribution, and payment infrastructure
+How does Kite ensure agents stay within predefined scopes of authority? | Usage constraints in governance layer
