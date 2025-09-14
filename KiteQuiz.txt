@@ -5,3 +5,4 @@ Why would a developer choose Kite over a general-purpose blockchain? | It is opt
 What is the function of the AI Detector App? | Detect deepfakes in images
 What is the relationship between an Agent ID and a KitePass? | KitePass is the overarching identity; Agent ID is the unique identifier for a specific agent
 What is one outcome of using PoAI for attribution? | Services can be monetized based on verified contributions
+How are payments handled between agents on Kite? | Real-time, usage-based value transfers
