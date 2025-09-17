@@ -85,3 +85,7 @@ What consensus model does Kite use to secure its blockchain? | Proof of Attribut
 How does Kite support developer monetization? | Through usage-based payments tied to verified contributions
 What type of AI systems does Kite primarily support? | Autonomous systems capable of independent operation
 How does the payment layer integrate into Kite's infrastructure? | Natively handles autonomous value transfer between agents
+'What does "autonomous coordination" mean in Kite?' | Agents can transact, communicate, and execute workflows without human intervention
+'What does the "service schema" in Kite define?' | How an agent should interact with the service's capabilities
+'What does "programmable governance" mean in Kite?' | Governance is defined by smart contracts that can adapt policies dynamically
+'What does "AI-native" mean in the context of Kite?' | Built to support workflows and economies where AI systems are first-class participants
