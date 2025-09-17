@@ -74,3 +74,14 @@ How does Kite handle disputes over attribution? | Governance-based resolution
 Which component of Kite ensures contributions can be audited? | Attribution logs
 Why is attribution critical for AI agents? | To ensure services and contributors receive credit and compensation
 How does Kite enable agents to evaluate the trustworthiness of a service? | Verifiable service metadata + identity
+What does PoAI guarantee in multi-agent workflows? | Verifiable credit assignment
+What does Kite require services to publish in order to be used by agents? | Metadata and service schema
+How does Kite prevent malicious agent behavior? | Programmable guardrails and usage policies
+What is the benefit of Kite's attribution layer for developers? | Enables usage-based monetization and transparent crediting
+How does Kite ensure low-latency agent transactions? | Through off-chain payment channels
+What is the ultimate goal of the Kite platform? | Power autonomous, trustworthy, and interoperable agent ecosystems
+What is the minimal requirement for a service to become discoverable by agents in Kite? | Register metadata and schema on the service registry
+What consensus model does Kite use to secure its blockchain? | Proof of Attributed Intelligence
+How does Kite support developer monetization? | Through usage-based payments tied to verified contributions
+What type of AI systems does Kite primarily support? | Autonomous systems capable of independent operation
+How does the payment layer integrate into Kite's infrastructure? | Natively handles autonomous value transfer between agents
