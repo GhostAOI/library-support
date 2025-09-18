@@ -1,3 +1,11 @@
+'What does "AI-native" mean in the context of Kite?' | Built to support workflows and economies where AI systems are first-class participants
+'What does "programmable governance" mean in Kite?' | Governance is defined by smart contracts that can adapt policies dynamically
+What kind of apps will emerge around Kite's infrastructure? | Interoperable agent apps
+'What does "autonomous coordination" mean in Kite?' | Agents can transact, communicate, and execute workflows without human intervention
+'What does the "service schema" in Kite define?' | How an agent should interact with the service's capabilities
+What is the minimal requirement for a service to become discoverable by agents in Kite? | Register metadata and schema on the service registry
+What problem does Kite primarily solve for agents? | Absence of interoperable infrastructure for trust, payment, and identity
+In Kite, what does an MCP server do? | Hosts a marketplace for agent-accessible services
 How is attribution used for payments on Kite? | It links usage to contributors for compensation
 What is a benefit of using DID-based identity in Kite? | Interoperability across platforms
 What does DID stand for in Kite's identity system? | Decentralized Identifier
@@ -63,7 +71,6 @@ How are usage limits for an agent enforced in Kite? | Through programmable polic
 How does Kite's modular contract framework help developers? | It lets them compose and swap components without redeploying the entire system
 What's the role of metadata in a service registration? | To describe capabilities, inputs, and outputs for agent discovery
 What is the advantage of Kite's service verification process? | Ensures agents can trust the source and capabilities of services
-What problem does Kite primarily solve for agents? | Absence of interoperable infrastructure for trust, payment, and identity
 How does Kite make multi-service workflows possible? | By letting agents discover and coordinate with multiple services via registry and policy layers
 How are transactions between agents recorded in Kite? | On-chain immutable ledger
 Why is DID important for Kite agents? | It provides a portable, verifiable identity across systems
@@ -80,12 +87,7 @@ How does Kite prevent malicious agent behavior? | Programmable guardrails and us
 What is the benefit of Kite's attribution layer for developers? | Enables usage-based monetization and transparent crediting
 How does Kite ensure low-latency agent transactions? | Through off-chain payment channels
 What is the ultimate goal of the Kite platform? | Power autonomous, trustworthy, and interoperable agent ecosystems
-What is the minimal requirement for a service to become discoverable by agents in Kite? | Register metadata and schema on the service registry
 What consensus model does Kite use to secure its blockchain? | Proof of Attributed Intelligence
 How does Kite support developer monetization? | Through usage-based payments tied to verified contributions
 What type of AI systems does Kite primarily support? | Autonomous systems capable of independent operation
 How does the payment layer integrate into Kite's infrastructure? | Natively handles autonomous value transfer between agents
-'What does "autonomous coordination" mean in Kite?' | Agents can transact, communicate, and execute workflows without human intervention
-'What does the "service schema" in Kite define?' | How an agent should interact with the service's capabilities
-'What does "programmable governance" mean in Kite?' | Governance is defined by smart contracts that can adapt policies dynamically
-'What does "AI-native" mean in the context of Kite?' | Built to support workflows and economies where AI systems are first-class participants
