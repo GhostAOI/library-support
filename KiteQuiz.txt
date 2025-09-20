@@ -91,11 +91,4 @@ What consensus model does Kite use to secure its blockchain? | Proof of Attribut
 How does Kite support developer monetization? | Through usage-based payments tied to verified contributions
 What type of AI systems does Kite primarily support? | Autonomous systems capable of independent operation
 How does the payment layer integrate into Kite's infrastructure? | Natively handles autonomous value transfer between agents
-'What does "AI-native" mean in the context of Kite?' | Built to support workflows and economies where AI systems are first-class participants
-'What does "programmable governance" mean in Kite?' | Governance is defined by smart contracts that can adapt policies dynamically
-What kind of apps will emerge around Kite's infrastructure? | Interoperable agent apps
-'What does "autonomous coordination" mean in Kite?' | Agents can transact, communicate, and execute workflows without human intervention
-'What does the "service schema" in Kite define?' | How an agent should interact with the service's capabilities
-What is the minimal requirement for a service to become discoverable by agents in Kite? | Register metadata and schema on the service registry
-What problem does Kite primarily solve for agents? | Absence of interoperable infrastructure for trust, payment, and identity
-In Kite, what does an MCP server do? | Hosts a marketplace for agent-accessible services
+Which component ensures agents can be held accountable for their actions? | PoAI
