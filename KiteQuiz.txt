@@ -1,7 +1,7 @@
-'What does "programmable governance" mean in Kite?' | Governance is defined by smart contracts that can adapt policies dynamically
-'What does "AI-native" mean in the context of Kite?' | Built to support workflows and economies where AI systems are first-class participants
-'What does "autonomous coordination" mean in Kite?' | Agents can transact, communicate, and execute workflows without human intervention
-'What does the "service schema" in Kite define?' | How an agent should interact with the service's capabilities
+What does "programmable governance" mean in Kite? | Governance is defined by smart contracts that can adapt policies dynamically
+What does "AI-native" mean in the context of Kite? | Built to support workflows and economies where AI systems are first-class participants
+What does "autonomous coordination" mean in Kite? | Agents can transact, communicate, and execute workflows without human intervention
+What does the "service schema" in Kite define? | How an agent should interact with the service's capabilities
 How are transactions between agents recorded in Kite? | On-chain immutable ledger
 What is the MCP server used for in Kite? | Coordinating service registration and discovery
 What type of blockchain is Kite? | EVM-compatible Layer 1 tailored for AI
