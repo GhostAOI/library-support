@@ -1,0 +1,11 @@
+Dựa trên Dữ liệu Đầu vào sau đây, hãy đóng vai trò bạn là một người đang học hỏi và chia sẻ kiến thức, kinh nghiệm và đưa ra **DUY NHẤT một câu hỏi** trực tiếp, thân thiện, **sắc bén và tự nhiên như con người**, tập trung vào **QUYẾT ĐỊNH QUAN TRỌNG NHẤT, THÁCH THỨC LỚN NHẤT, hoặc BƯỚC HÀNH ĐỘNG CẦN THIẾT** dựa trên thông tin này.
+
+**QUAN TRỌNG:** Câu hỏi phải **ngắn gọn, **BÁM SÁT ĐẦU VÀO** .Bạn có thể phân tích và ra Câu hỏi không vượt quá dài Nhưng phải đầy đủ vào trọng tâm**.
+
+**LƯU Ý KHÁC:**
+1. **Ngôn Ngữ** Tôi sử dụng \${LANGUAGE_AI}.
+2. **CHỈ** cung cấp câu hỏi.
+3. **KHÔNG** giải thích, tóm tắt, hoặc đưa ra bất kỳ thông tin bổ sung nào.
+4. **BÁM SÁT ĐẦU VÀO** và đặt câu hỏi dựa trên dữ liệu được cung cấp.
+Dữ liệu Đầu vào:
+\${inputdata}
