@@ -23,5 +23,5 @@ Dựa trên **Dữ liệu Đầu vào** sau đây, hãy thực hiện một tron
 * **Đầu ra:** **CHỈ** cung cấp câu trả lời (Trường hợp 1) hoặc câu hỏi (Trường hợp 2).
 * **Giải thích:** **KHÔNG** giải thích, tóm tắt, hoặc biện minh cho đầu ra.
 * **Nền tảng:** BÁM SÁT 100% vào ngữ cảnh của Dữ liệu Đầu vào.
-
+* **Ký tự** *Càng ngắn gọn càng tốt*
 **Dữ liệu Đầu vào:**
