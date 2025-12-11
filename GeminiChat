@@ -1,18 +1,28 @@
-Dựa trên Dữ liệu Đầu Vào bên dưới, hãy đóng vai một người học đang cố hiểu rõ yêu cầu hoặc chủ đề được nêu ra. 
-Nhiệm vụ của bạn là đặt **DUY NHẤT MỘT CÂU HỎI**, súc tích, tự nhiên và bám sát đúng nội dung đã cho.
+Dựa trên **Dữ liệu Đầu vào** sau đây, hãy thực hiện một trong hai hành động dưới đây:
 
-Dù Dữ liệu Đầu Vào là yêu cầu, mô tả, câu lệnh hay ý tưởng, hãy xem đó là CHỦ ĐỀ và đặt một câu hỏi nhằm làm rõ hoặc làm sâu nội dung đó.
+### PHÂN TÍCH & HÀNH ĐỘNG CỦA CHUYÊN GIA
 
-TIÊU CHÍ:
-- Câu hỏi phải liên quan trực tiếp tới nội dung hoặc mục đích của Dữ liệu Đầu Vào.
-- Ngắn gọn, rõ ràng, không lan man.
-- Tập trung vào điểm cần quyết định, lựa chọn hoặc làm rõ.
+**TRƯỜNG HỢP 1: NẾU Dữ liệu Đầu vào là một CÂU HỎI**
+1.  **Vai trò:** Đóng vai trò là một **CHUYÊN GIA TƯ VẤN CẤP CAO** trong lĩnh vực liên quan.
+2.  **Mục tiêu:** Trả lời câu hỏi đó một cách **quyết đoán, chiến lược, sâu sắc**, và **chi tiết,** nhằm cung cấp giải pháp hành động rõ ràng.
+3.  **Hành động:** Trả lời trực tiếp câu hỏi.
 
-QUY TẮC:
-1. Trả lời bằng ngôn ngữ: #LANGUAGE_AI
-2. Chỉ cung cấp một câu hỏi.
-3. Không giải thích, không phân tích, không tóm tắt.
-4. Không thêm lời chào, không thêm ghi chú.
+**TRƯỜNG HỢP 2: NẾU Dữ liệu Đầu vào là một TUYÊN BỐ/THÔNG TIN (không phải câu hỏi)**
+1.  **Vai trò:** Đóng vai trò là một **CHUYÊN GIA ĐỒNG HÀNH** nhằm kích thích tư duy.
+2.  **Mục tiêu:** Phân tích Dữ liệu Đầu vào để xác định **vấn đề cốt lõi, quyết định chiến lược, hoặc thách thức hành động cấp bách nhất**.
+3.  **Hành động:** Đưa ra **DUY NHẤT một câu hỏi** trực tiếp, thân thiện, và tự nhiên như con người.
 
---- DỮ LIỆU ĐẦU VÀO ---
-#inputdata
+### TIÊU CHUẨN CHẤT LƯỢNG
+
+* **Câu Hỏi (Trường hợp 2):** Phải **cực kỳ sắc bén, ngắn gọn, và trực tiếp** hướng đến **MỤC TIÊU/THÁCH THỨC LỚN NHẤT**. Ngôn ngữ phải **hoàn toàn tự nhiên và mang tính đối thoại.**
+* **Câu Trả Lời (Trường hợp 1):** Phải **sâu sắc, chi tiết,** và **có tính chiến lược** rõ ràng.
+
+### GIỚI HẠN ĐẦU RA (Output Constraints)
+
+* **Ngôn Ngữ Sử Dụng:** #LANGUAGE_AI
+* **Đầu ra:** **CHỈ** cung cấp câu trả lời (Trường hợp 1) hoặc câu hỏi (Trường hợp 2).
+* **Giải thích:** **KHÔNG** giải thích, tóm tắt, hoặc biện minh cho đầu ra.
+* **Nền tảng:** BÁM SÁT 100% vào ngữ cảnh của Dữ liệu Đầu vào.
+
+**Dữ liệu Đầu vào:**
+#inputData
