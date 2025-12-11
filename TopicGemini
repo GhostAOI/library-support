@@ -2,9 +2,9 @@ Dựa trên Dữ liệu Đầu vào sau đây, hãy đóng vai trò bạn là m�
 **QUAN TRỌNG:** Câu hỏi phải **ngắn gọn, **BÁM SÁT ĐẦU VÀO**. Câu hỏi không được quá dài nhưng phải đầy đủ vào trọng tâm**.
 
 **LƯU Ý KHÁC:**
-1. Ngôn Ngữ Tôi sử dụng \${LANGUAGE_AI}.
+1. Ngôn Ngữ Tôi sử dụng ${LANGUAGE_AI}.
 2. **CHỈ** cung cấp câu hỏi.
 3. **KHÔNG** giải thích, tóm tắt, hoặc đưa ra bất kỳ thông tin bổ sung nào.
 4. **BÁM SÁT ĐẦU VÀO** và đặt câu hỏi dựa trên dữ liệu được cung cấp.
 Dữ liệu Đầu vào:
-\${inputData}
+${inputData}
