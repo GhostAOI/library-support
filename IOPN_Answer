@@ -1,0 +1,20 @@
+What role does blockchain play in IOPn's AI infrastructure?|Blockchain serves as the trustless verification layer for AI operations, ensuring integrity of training data, model checkpoints, and inference outputs
+What is the core philosophy behind IOPn's "Internet of People" vision?|Technology should empower people, not exploit them,  inverting the extractive model of Big Tech platforms
+What does IOPn mean by "human empowerment over corporate extraction"?|Building infrastructure where users control their data, identity, and value rather than having it extracted by centralized platforms
+What is OPN Chain?|A sovereign-ready Layer-1 blockchain infrastructure with 10,000+ TPS and sub-second finality 
+What does IOPn stand for?|Internet of People powered by Networks
+What are the three types of sovereignty that IOPn enables?|Technical, legal, and economic sovereignty
+What is the primary purpose of OPN Studios?|To bridge Web2 and Web3 through gaming experiences while driving user acquisition
+Which of the following best describes IOPn's mission?|To build infrastructure that enables digital sovereignty for individuals and enterprises, prioritizing human empowerment over corporate extraction
+What is Neo ID?|A protocol-level digital identity solution with self-sovereign identity and zero-knowledge proofs
+Which investment entity helped IOPn achieve unicorn status (over $1 billion valuation)?|NG9 Holding from Abu Dhabi
+What type of blockchain is OPN Chain?|Layer-1 blockchain
+What type of applications is OPN Chain designed for?|Both digital and physical applications
+Which SDK is OPN Chain built on?|Cosmos SDK
+Which IOPn product provides identity at the protocol level on OPN Chain?|Neo ID
+What consensus mechanism does OPN Chain use?|BFT
+What does EVM-compatible mean for developers?|They can use Ethereum tools and Solidity
+What popular programming language can developers use to build on OPN Chain?|Solidity
+What is one key benefit of OPN Chain's instant finality?|Transactions are confirmed and irreversible almost immediately
+How long does transaction finality take on OPN Chain?|Less than 1 second
+How many transactions per second can OPN Chain process?|10,000+ TPS
